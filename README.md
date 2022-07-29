@@ -1,0 +1,1 @@
+In this study, I used the data of a game company to classify with customer characteristics. Then, I realized a project where I calculated how much profit the next customers would leave on average.
